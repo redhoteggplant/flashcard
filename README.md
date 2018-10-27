@@ -6,7 +6,7 @@
 Basic app that displays a flashcard question and answer, which can be changed by the user.
 
 ### App Walk-though
-<img src="http://recordit.co/RTJYRGnkl1" width=200><br>
+<img src="http://recordit.co/RTJYRGnkl1.gif" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
