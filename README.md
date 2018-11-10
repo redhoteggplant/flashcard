@@ -5,7 +5,7 @@
 Basic app that allows users to create flashcard questions and answers, and display them.
 
 ### App Walk-though
-<img src="http://recordit.co/p5PjkYZ4Pp" width=200><br>
+<img src="http://recordit.co/p5PjkYZ4Pp.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
